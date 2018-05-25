@@ -40,7 +40,7 @@
                     ],
                     password: [
                         { required: true, message: '请输入密码', trigger: 'blur' },
-                        { type: 'string', min: 4,message: '至少4位' }
+                        { type: 'string', min: 4, message: '至少4位' }
                     ]
                 }
             }
